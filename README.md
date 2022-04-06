@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Design patterns, Cloud, DevOps**
 
-- 📝 I regularly write articles on [https://ar.quora.com/profile/Mohammed-Alabsi](https://ar.quora.com/profile/Mohammed-Alabsi)
+- 📝 I regularly write about making your life as a developer easier [https://twitter.com/devlomingo](https://twitter.com/devlomingo)
 
 - 💬 Ask me about **Laravel, Vue, MySql, PHP, JS**
 
