@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/devlomingo" target="blank"><img src="https://img.shields.io/twitter/follow/devlomingo?logo=twitter&style=for-the-badge" alt="devlomingo" /></a> </p>
 
+<a href="https://app.daily.dev/devlomingo"><img src="https://api.daily.dev/devcards/01786ce767b447958c7df0c3827e1dd9.png?r=hku" width="400" alt="Mohammed Alabsi (Devlomingo)'s Dev Card"/></a>
+
 - 🔭 I’m currently working on [SallaApp](https://github.com/SallaApp)
 
 - 🌱 I’m currently learning **Design patterns, Cloud, DevOps**
