@@ -40,6 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devlomingo&show_icons=true&locale=en&layout=compact" alt="devlomingo" /></p>
 
-<p><a href="https://app.daily.dev/devlomingo"><img align="right" src="https://api.daily.dev/devcards/01786ce767b447958c7df0c3827e1dd9.png?r=hku" width="400" alt="Mohammed Alabsi (Devlomingo)'s Dev Card"/></a></p>
+<p><a href="https://app.daily.dev/devlomingo"><img align="right" src="https://api.daily.dev/devcards/01786ce767b447958c7df0c3827e1dd9.png?r=hku" width="250" alt="Mohammed Alabsi (Devlomingo)'s Dev Card"/></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devlomingo&show_icons=true&locale=en" alt="devlomingo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devlomingo&show_icons=true&locale=en" alt="devlomingo" /></p>
